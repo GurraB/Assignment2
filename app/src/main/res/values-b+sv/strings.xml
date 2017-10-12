@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dina vänner i världen</string>
+
+    <string name="add_new_group">Lägg till en ny grupp</string>
+    <string name="language">SV</string>
+    <string name="open_chat">Öppna chatt</string>
+    <string name="name">namn</string>
+    <string name="register_new_user">Registrera ny användare</string>
+    <string name="register">Registrera</string>
+</resources>

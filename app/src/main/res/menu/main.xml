@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!--TODO add @string-->
+    <item
+        android:id="@+id/menu_item_language"
+        android:orderInCategory="99"
+        android:title="@string/language"
+        android:icon="@drawable/ic_flag"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_item_chat"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_chat"
+        android:title="@string/open_chat"
+        app:showAsAction="ifRoom" />
+</menu>

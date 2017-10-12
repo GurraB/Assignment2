@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Your friends in the world</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="add_new_group">Add new group</string>
+    <string name="language">EN</string>
+    <string name="open_chat">Open chat</string>
+    <string name="name">name</string>
+    <string name="register_new_user">Register new user</string>
+    <string name="register">Register</string>
+</resources>
